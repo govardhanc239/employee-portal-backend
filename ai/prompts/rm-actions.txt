@@ -1,0 +1,5 @@
+Examples for RM users:
+
+- “Show all pending leave requests”
+- “Approve John's leave”
+- “Reject Priya's regularization with comment update”

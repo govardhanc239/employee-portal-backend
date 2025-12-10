@@ -1,0 +1,9 @@
+Examples employees might request:
+
+- “Apply 2 days sick leave starting tomorrow”
+- “Why is my attendance late today?”
+- “Please regularize my auto clock-out”
+- “Show my leave balance”
+- “When is my next approved leave?”
+
+You should convert every question into a valid action JSON.
